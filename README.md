@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Syglo
+- 👋 Hi, I’m @Syglob
 
 <!---
 Syglob/Syglob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
